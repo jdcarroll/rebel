@@ -1,0 +1,24 @@
+{
+  "name": "rebelispmonitor",
+  "version": "2.0.0",
+  "description": "plug and play network anylizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdcarroll/rebel.git"
+  },
+  "keywords": [
+    "Network",
+    "plug",
+    "play"
+  ],
+  "author": "Jeffrey Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jdcarroll/rebel/issues"
+  },
+  "homepage": "https://github.com/jdcarroll/rebel#readme"
+}
