@@ -4,7 +4,7 @@
   "description": "plug and play network anylizer",
   "main": "index.js",
   "scripts": {
-    "test": "npm start"
+    "test": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/jdcarroll/rebel/issues"
   },
-  "homepage": "https://github.com/jdcarroll/rebel#readme"
+  "homepage": "https://github.com/jdcarroll/rebel#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "chalk": "^1.1.1",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4"
+  }
 }
